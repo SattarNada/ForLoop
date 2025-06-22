@@ -5,6 +5,7 @@ public class Task5 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter number of crews (C >= 1): ");
+        
         int crewCount = scanner.nextInt();
 
        
